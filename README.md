@@ -6,3 +6,4 @@ and more
 and more
 and more 
 lines
+another conflict
