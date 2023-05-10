@@ -2,3 +2,4 @@
 This is the new version of the readme file
 I am creating a conflict
 And another line
+another conflict
